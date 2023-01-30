@@ -1,4 +1,4 @@
-These codes are part of previous cleaning data work that i've done.
+These codes are part of previous cleaning data work that i've done in the asset management topics.
 
 Topics:
 - Extract information
